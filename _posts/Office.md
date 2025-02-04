@@ -50,7 +50,7 @@ ffuf -w SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt -u http://i
 
 ![[Pasted image 20240220053441.png]]
 
-7. After doing some research over jomla 4.2 I found an exploit for it:
+7. After doing some research over joomla 4.2 I found an exploit for it:
 
 ![[Pasted image 20240220212206.png]]
 
